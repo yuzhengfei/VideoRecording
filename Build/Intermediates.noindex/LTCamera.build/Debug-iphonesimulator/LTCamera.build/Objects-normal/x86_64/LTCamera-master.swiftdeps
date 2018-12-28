@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "187f109b99965d62a041ca018e688b2a"
+build_time: [1545892210, 31266000]
+inputs:
+  "/Users/yuzhengfei/Desktop/LTCamera/LTCamera/ViewController.swift": [1545892209, 0]
+  "/Users/yuzhengfei/Desktop/LTCamera/LTCamera/AppDelegate.swift": [1545725624, 0]
